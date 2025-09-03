@@ -17,8 +17,6 @@ The core of the project is implemented in `spark_pipeline.py`, a single, well-st
 * `spark_pipeline.py`: The core script containing the data engineering and machine learning solution.
 * `utilities.py`: Contains helper functions and constants used throughout the project.
 * `log4j-spark-properties.properties`: Configuration for Spark logging.
-* `requirements.txt`: A list of all necessary Python dependencies.
-* `.gitignore`: A standard file to prevent unnecessary project files from being committed to the repository.
 
 ## Methodology
 
